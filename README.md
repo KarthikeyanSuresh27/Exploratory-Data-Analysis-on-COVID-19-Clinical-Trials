@@ -6,3 +6,5 @@ This dataset consists of clinical trials related to COVID 19 studies presented o
 
 The dataset consists of 5783 XML files where each XML file corresponds to one study. The filename is the NCT number which a unique identifier of a study in ClinicalTrials repository.
 
+I have converted these XML files to a dataframe using ElementTree, a built-in python library to manipulate XML files and I have performed exploratory data analysis on this dataset
+
